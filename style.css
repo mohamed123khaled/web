@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b073dc;
+}
+.container {
+    max-width: 800px;
+    margin: 30px auto;
+    background: rgb(13, 204, 96);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+form {
+    margin-bottom: 20px;
+}
+form input, form button {
+    padding: 10px;
+    margin-right: 10px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 12px;
+    border: 1px solid #da3636;
+}
+button.edit, button.delete {
+    margin-right: 5px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
